@@ -1,0 +1,34 @@
+body {
+    background-color: #242024;
+
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    position: sticky;
+    
+    background-color: black;
+    color: white;
+
+    display: grid;
+    grid-template-columns: repeat(2, 0.95fr);
+
+    height: 30%;
+
+    padding: 7px;
+    margin: 0;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    /*align-items: center;*/
+    justify-content: flex-end;
+    gap: 5.5%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
