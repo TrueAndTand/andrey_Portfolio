@@ -61,7 +61,25 @@ ul{
 a {
     text-decoration: none;
     color: white;
+
+    font-family: "Londrina Shadow", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
+
+.welcomeHeading, h3, p {
+    font-family: "Zen Dots", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+ .pOfArticleFisk1 {
+    color: white;
+
+    font-family: "Zen Dots", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+ }
 
 .hero {
     width: 80%;
@@ -81,4 +99,9 @@ a {
     /*display: grid;
     grid-template-columns: repeat(1, 0.5fr);*/
     width: 100%;
+
+    background-color: black;
+
+    margin-top: 25px;
+    border-radius: 12px;
 }
