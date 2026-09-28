@@ -8,7 +8,7 @@
     "EHLT" 12;
 }
 
-.welcomeHeading {
+.mainHeading {
   font-family: "Londrina Shadow", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -67,7 +67,7 @@ a {
     font-style: normal;
 }
 
-.welcomeHeading, h3, p {
+h3, p {
     font-family: "Zen Dots", sans-serif;
     font-weight: 400;
     font-style: normal;
