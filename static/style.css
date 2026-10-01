@@ -105,3 +105,139 @@ h3, p {
     margin-top: 25px;
     border-radius: 12px;
 }
+
+.articleFisk1Projekt {
+    padding: 10px;
+
+    height: 150px;
+    width: 275px;
+}
+
+.articleFisk1Profil {
+    padding: 10px;
+
+    height: 270px;
+    width: 210px;
+}
+
+.htmlcssQual {
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    height: 130px;
+    width: 130px;
+}
+
+@media (min-width: 640px) {
+    .articleFisk1Projekt {
+        padding: 10px;
+
+        height: 327px;
+        width: 600px;
+    }
+
+    .articleFisk1Profil {
+        padding: 10px;
+
+        height: 270px;
+        width: 210px;
+    }
+
+    .htmlcssQual {
+        padding-top: 10px;
+        padding-bottom: 10px;
+
+        height: 130px;
+        width: 130px;
+    }
+}
+
+@media (min-width: 768px) {
+    .articleFisk1Projekt {
+        padding: 10px;
+
+        height: 382px;
+        width: 700px;
+    }
+
+    .articleFisk1Profil {
+        padding: 10px;
+
+        height: 315px;
+        width: 245px;
+    }
+
+    .htmlcssQual {
+        padding-top: 10px;
+        padding-bottom: 10px;
+
+        height: 152px;
+        width: 152px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .articleFisk1Projekt {
+        padding: 10px;
+
+        height: 518px;
+        width: 950px;
+    }
+
+    .articleFisk1Profil {
+        padding: 10px;
+        height: 428px;
+        width: 333px;
+    }
+
+    .htmlcssQual {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        height: 206px;
+        width: 206px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .articleFisk1Projekt {
+        padding: 10px;
+
+        height: 655px;
+        width: 1200px;
+    }
+
+    .articleFisk1Profil {
+        padding: 10px;
+        height: 540px;
+        width: 420px;
+    }
+
+    .htmlcssQual {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        height: 260px;
+        width: 260px;
+    }
+}
+
+@media (min-width: 1536px) {
+    .articleFisk1Projekt {
+        padding: 10px;
+
+        height: 818px;
+        width: 1500px;
+    }
+
+    .articleFisk1Profil {
+        padding: 10px;
+        height: 675px;
+        width: 525px;
+    }
+
+    .htmlcssQual {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        height: 325px;
+        width: 325px;
+    }
+}
