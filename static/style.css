@@ -50,6 +50,26 @@ header {
     box-sizing: border-box;
 }
 
+footer {
+    background-color: black;
+    color: white;
+
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;            
+
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    
+    margin: 0;
+
+    width: 100%;
+
+    box-sizing: border-box;
+}
+
 ul{
     list-style-type: none;
     display: flex;
@@ -77,13 +97,13 @@ a:hover {
     font-style: normal;
 }
 
-h3, p {
+h2, p {
     font-family: "Zen Dots", sans-serif;
     font-weight: 400;
     font-style: normal;
 }
 
- .pOfArticleFisk1 {
+ #pOfArticleFisk1 {
     color: white;
 
     font-family: "Zen Dots", sans-serif;
